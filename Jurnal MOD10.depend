@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1638857522 source:d:\telkom university\semester 3\struktur data\praktikum\std_mod10_if4412_1301204212_mrn\jurnal mod10\main.cpp
+	<iostream>
+	"multi.h"
+
+1638858047 source:d:\telkom university\semester 3\struktur data\praktikum\std_mod10_if4412_1301204212_mrn\jurnal mod10\multi.cpp
+	"multi.h"
+
+1638853165 d:\telkom university\semester 3\struktur data\praktikum\std_mod10_if4412_1301204212_mrn\jurnal mod10\multi.h
+	<iostream>
+
